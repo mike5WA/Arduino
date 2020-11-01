@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "AVR ISP",
+    "sketch": "GitHub_Test\\GitHub_Test.ino"
+}
