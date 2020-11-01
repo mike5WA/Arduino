@@ -1,2 +1,2 @@
 # Arduino
-First attempta at managing both git hub from visual studio
+First attempt at managing both git hub from visual studio
